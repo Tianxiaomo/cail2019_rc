@@ -1,0 +1,14 @@
+__pycache__
+*/__pycache__
+.ipynb_checkpoints
+*.h5
+*.hdf5
+*.pb
+*.pbtxt
+*.yml
+*.ckpt
+.idea
+*.log
+*.tar
+*.txt
+*.pth
